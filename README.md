@@ -11,3 +11,4 @@ O'yinni kompilyatsiya qilish va ishga tushirishdan oldin, kompyuteringizda IDE v
 3. "javac SnakeGame.java GameFrame.java GamePanel.java" bilan kodingizni kompilyatsiya qiling 
 4. o'yinni "java SnakeGame" bilan boshqaring --o'yin tugagandan so'ng yangi o'yinni ko'rsatish uchun ushbu buyruqni qayta kiriting.
   
+![SamanSnake1](https://github.com/user-attachments/assets/4d7a7ddd-006f-4889-b9c3-7168a84b92f6)
